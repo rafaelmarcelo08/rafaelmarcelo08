@@ -2,6 +2,14 @@
 
 ### Olá eu sou <strong>Rafael Marcelo</strong> desenvolvedor fullstack.
 
+<p align="start"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=rafaelmarcelo08&show_icons=true&theme=gotham&count_private=true&show_icons=true" alt="rafaelmarcelo08" style="width:100%" /> 
+</p>
+
+<p align="start"> 
+ <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafaelmarcelo08&layout=compact&theme=gotham" />
+</p>
+
 Logo a baixo tem meu portfólio:
 
 ### [Rafael Marcelo](https://rafaelmarcelo08.netlify.app/)
