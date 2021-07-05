@@ -17,4 +17,6 @@ Logo a baixo tem meu portfólio:
 
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=rafaelmarcelo08.visitor-badge)](https://github.com/rafaelmarcelo08)
 
-#### Eu tenho um propósito de construir uma carreira de desenvolvedor, ou seja, mapear minhas metas e conquistar gradualmente cada meta que foi planejada. Minhas aspirações é tornar um desenvolvedor cada vez melhor sempre buscando novos conhecimentos e novas tecnologias.
+<p align="justify">
+Eu tenho um propósito de construir uma carreira de desenvolvedor, ou seja, mapear minhas metas e conquistar gradualmente cada meta que foi planejada. Minhas aspirações é tornar um desenvolvedor cada vez melhor sempre buscando novos conhecimentos e novas tecnologias.
+</p>
