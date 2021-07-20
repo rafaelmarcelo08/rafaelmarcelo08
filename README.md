@@ -1,6 +1,6 @@
 # Rafael Marcelo 🚀
 
-### Olá eu sou <strong>Rafael Marcelo</strong> desenvolvedor fullstack.
+### Olá eu sou <strong>Rafael Marcelo</strong> desenvolvedor fullstack júnior em ReactJS, React Native e Angular.
 
 <p align="start"> 
  <img src="https://github-readme-stats.vercel.app/api?username=rafaelmarcelo08&show_icons=true&theme=gotham&count_private=true&show_icons=true" alt="rafaelmarcelo08" style="width:100%" /> 
