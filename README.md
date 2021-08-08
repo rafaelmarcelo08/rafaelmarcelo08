@@ -1,5 +1,5 @@
 ## Olá eu sou o Rafael Marcelo 🚀
-#### Eu sou desenvolvedor fullstack júnior em ReactJS, React Native, Angular, NodeJS e Java.
+#### Eu sou desenvolvedor fullstack júnior em ReactJS, React Native, Angular, NodeJS, Java e JavaScript.
 
 <div>
   <a href="https://rafaelmarcelo08.netlify.app/" target="_blank"></a>
