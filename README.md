@@ -2,9 +2,10 @@
 #### Eu sou desenvolvedor fullstack júnior em ReactJS, React Native, Angular, NodeJS, Java e JavaScript.
 
 <div>
-  <a href="https://rafaelmarcelo08.netlify.app/" target="_blank"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmarcelo08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmarcelo08&layout=compact&langs_count=7&theme=dracula" />
+  <a href="https://rafaelmarcelo08.netlify.app/" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmarcelo08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmarcelo08&layout=compact&langs_count=7&theme=dracula" />
+  </a>
 </div>
 
 ##
