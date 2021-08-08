@@ -34,3 +34,7 @@
 </div>
 
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=rafaelmarcelo08.visitor-badge)](https://github.com/rafaelmarcelo08)
+
+##
+
+![Snake animation](https://github.com/rafaelmarcelo08/rafaelmarcelo08/blob/output/github-contribution-grid-snake.svg)
