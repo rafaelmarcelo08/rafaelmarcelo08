@@ -33,8 +33,9 @@
  ![Netlify Status](https://api.netlify.com/api/v1/badges/94f8a470-f5dc-4d97-bf4a-2c69e20bec2f/deploy-status)
 </div>
 
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=rafaelmarcelo08.visitor-badge)](https://github.com/rafaelmarcelo08)
+![Github visitors](https://api.visitorbadge.io/api/VisitorHit?user=rafaelmarcelo08&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ##
 
 ![Snake animation](https://github.com/rafaelmarcelo08/rafaelmarcelo08/blob/output/github-contribution-grid-snake.svg)
+
