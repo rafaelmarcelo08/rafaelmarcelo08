@@ -28,6 +28,8 @@
  <a href= "https://www.linkedin.com/in/rafaelmarcelo08" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+##
+
 <div>
  <p>
    <strong>Logo a baixo tem o meu portfólio:</strong>
